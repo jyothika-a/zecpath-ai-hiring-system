@@ -1,0 +1,5 @@
+2026-03-29 14:53:56,432 - test_logger - INFO - This is a test log message
+2026-03-29 14:57:05,384 - test_logger - INFO - This is a test log message
+2026-03-29 14:59:57,452 - test_logger - INFO - This is a test log message
+2026-03-29 14:59:57,452 - test_logger - WARNING - Warning message
+2026-03-29 14:59:57,452 - test_logger - ERROR - Error message
